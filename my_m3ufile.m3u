@@ -1,0 +1,8 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="Sky Sports F1" group-title="Sports",Sky Sports F1 HD
+https://iptv-org.github.io/channels/uk/SkySportsF1#HD
+
+
+#EXTINF:-1 tvg-id="SkyShowcase.uk" tvg-name="Sky Showcase" group-title="Entertainment",Sky Showcase HD
+https://iptv-org.github.io/channels/uk/SkyShowcase#HD
