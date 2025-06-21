@@ -6,3 +6,6 @@ https://iptv-org.github.io/channels/uk/SkySportsF1#HD
 
 #EXTINF:-1 tvg-id="SkyShowcase.uk" tvg-name="Sky Showcase" group-title="Entertainment",Sky Showcase HD
 https://iptv-org.github.io/channels/uk/SkyShowcase#HD
+
+#EXTINF:-1,UK:SKY SPORTS F1 HD
+http://portal.germanyservers.de:8000/live/1234/1234/33230.m3u8
